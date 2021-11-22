@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bill Minear
 
-<!--
-**billminear/billminear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+I'm Bill Minear - a network engineer, python developer, automation enthusiast, backpacker, etc. etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this space to track resources I use when teaching and learning. Have a look around and enjoy! Feel free to reach out to me if you have questions or are interested in something particular!
+
+Check out my:
+- linkedin: linkedin.com/in/billminear
+- website: billminear.com
+
+Have a great day!
+
