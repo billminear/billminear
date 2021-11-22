@@ -1,6 +1,4 @@
-### Bill Minear
-
-Welcome!
+### Welcome!
 
 I'm Bill Minear - a network engineer, python developer, automation enthusiast, backpacker, etc. etc.
 
