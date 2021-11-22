@@ -4,9 +4,9 @@ I'm Bill Minear - a network engineer, python developer, automation enthusiast, b
 
 I use this space to track resources I use when teaching and learning. Have a look around and enjoy! Feel free to reach out to me if you have questions or are interested in something particular!
 
-Check out my:
-[LinkedIn](linkedin.com/in/billminear)
-[Website](billminear.com)
+Check out my:  
+[LinkedIn](linkedin.com/in/billminear)  
+[Website](billminear.com)  
 
 Have a great day!
 
