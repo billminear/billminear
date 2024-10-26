@@ -6,7 +6,6 @@ I use this space to track resources I use when teaching and learning. Have a loo
 
 Check out my:  
 [LinkedIn](https://linkedin.com/in/billminear)  
-[Website](https://billminear.com)  
 
 Have a great day!
 
