@@ -1,4 +1,4 @@
-### Me
+### About Me
 ---
 I'm **Bill Minear** - a computer infrastructure engineer and enthusiast. I enjoy
 learning about, building, maintaining, automating, and securing network, 
