@@ -1,11 +1,16 @@
-### Welcome!
+# Welcome!
+## Me
+I'm Bill Minear - a computer infrastructure engineer and enthusiast. I enjoy
+learning about, building, maintaining, automating, and securing network, 
+application, and service infrastructure (*whew!*). I also enjoy teaching
+some of these topics and sharing things that I've learned with other people.
 
-I'm Bill Minear - a network engineer, python developer, infrastructure & automation enthusiast, backpacker, etc. etc.
+Thanks for stopping by and I hope you have a great day!
+#### [LinkedIn](https://linkedin.com/in/billminear)
 
-I use this space to track resources I use when teaching and learning. Have a look around and enjoy! Feel free to reach out to me if you have questions or are interested in something particular!
-
-Check out my:  
-[LinkedIn](https://linkedin.com/in/billminear)  
-
-Have a great day!
-
+## My Repos
+#### [HomeLab Resources](https://github.com/billminear/homelab_resources)
+My personal practice area. I contribute when I can. IaC tool files,
+documentation, scripts, etc. I use these to build and maintain my homelab.
+I share them because it's fun to make them and maybe someone else will find
+value in using or looking at them.
